@@ -8,6 +8,7 @@ Hi! I'm **Shreyansh Goel**, a passionate **Full-Stack Developer** specializing i
 - 💻 Skilled in developing scalable, AI-driven web applications with the MERN stack and Next.js
 - 🚀 Passionate about solving complex challenges and leveraging innovative technologies
 - 📧 **Contact**: 03shreyanshgoel@gmail.com | +91 8791202546
+  
 - 👀 <img src="https://komarev.com/ghpvc/?username=03ShreyanshGoel&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views">
 
 ---
