@@ -9,7 +9,7 @@ Hi! I'm **Shreyansh Goel**, a passionate **Full-Stack Developer** specializing i
 - 🚀 Passionate about solving complex challenges and leveraging innovative technologies
 - 📧 **Contact**: 03shreyanshgoel@gmail.com | +91 8791202546
 - 👀 **Profile Views**:  
-  <img src="https://komarev.com/ghpvc/?username=ashu6783&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=03ShreyanshGoel&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views">
 
 ---
 
@@ -41,14 +41,14 @@ Hi! I'm **Shreyansh Goel**, a passionate **Full-Stack Developer** specializing i
 
 ### ShopIt | MERN E-commerce Platform
 **MongoDB, Express.js, React.js, Node.js, Redux, TailwindCSS**
-- [GitHub](https://github.com/username/shopit) | [Live Demo](https://shopit-demo.vercel.app)
+- [GitHub](https://github.com/03shreyanshGoel/ShopIt) | [Live Demo](https://shopit-store.vercel.app)
 - Developed a full-stack e-commerce platform with secure authentication, Stripe payments, and JWT
 - Created an admin dashboard for product, order, and category management
 - Implemented responsive UI with React.js, Redux, TailwindCSS, and Framer Motion
 
 ### LitGitUp | AI-Powered Git Repository Analysis
 **Next.js, TypeScript, PostgreSQL, LangChain, Gemini**
-- [GitHub](https://github.com/username/litgitup) | [Live Demo](https://litgitup-demo.vercel.app)
+- [GitHub](https://github.com/03shreyanshGoel/LitGitUp) | [Live Demo](https://litgitup.vercel.app)
 - Engineered a SaaS platform for GitHub repo analysis using Next.js/TypeScript and PostgreSQL
 - Implemented AI-driven commit summarization with Gemini-1.5-Flash
 - Enhanced search with RAG-based vector search, enabling contextual querying of code
@@ -56,7 +56,7 @@ Hi! I'm **Shreyansh Goel**, a passionate **Full-Stack Developer** specializing i
 
 ### BingeIt | Movie Recommendation App
 **React.js, Firebase, TMDB API**
-- [GitHub](https://github.com/username/bingeit) | [Live Demo](https://bingeit-demo.vercel.app)
+- [GitHub](https://github.com/03ShreyanshGoel/bingeit-movie-app) | [Live Demo](https://bingeit-movie-app.vercel.app)
 - Created a responsive movie recommendation app using React.js and TMDB API
 - Integrated Firebase for authentication and real-time watchlists
 - Enhanced UX with React Router and toast notifications
@@ -76,13 +76,13 @@ Built with Next.js and AI to accelerate research and decision-making.
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashu6783&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashu6783&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=03ShreyanshGoel&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=03ShreyanshGoel&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="200"/>
 </div>
 
 ## 📈 Contribution Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashu6783&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=03ShreyanshGoel&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ## 🏆 Achievements
@@ -91,13 +91,13 @@ Built with Next.js and AI to accelerate research and decision-making.
 - Global rank of 871 in CodeChef Starter 136 (Division 3)
 - GitHub Trophies:
   <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=ashu6783&theme=tokyonight&no-frame=true&column=2&title=Commits,Repositories" alt="GitHub Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=03ShreyanshGoel&theme=tokyonight&no-frame=true&column=2&title=Commits,Repositories" alt="GitHub Trophies"/>
   </div>
 
 ## 📊 Languages & Coding Stats
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashu6783&theme=tokyonight&layout=pie" height="200" alt="Languages Pie Chart"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashu6783&theme=tokyonight" height="200" alt="Productivity Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=03ShreyanshGoel&theme=tokyonight&layout=pie" height="200" alt="Languages Pie Chart"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=03ShreyanshGoel&theme=tokyonight" height="200" alt="Productivity Stats"/>
 </div>
 
 ---
@@ -112,7 +112,7 @@ Built with Next.js and AI to accelerate research and decision-making.
 ## 📫 Let's Connect
 - **Email**: 03shreyanshgoel@gmail.com
 - **Phone**: +91 8791202546
-- **LinkedIn**: [Shreyansh Goel](https://www.linkedin.com/in/shreyansh-goel/)
+- **LinkedIn**: [Shreyansh Goel](https://www.linkedin.com/in/03shreyanshgoel/)
 
 ---
 
