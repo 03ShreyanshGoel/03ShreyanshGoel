@@ -77,7 +77,7 @@ Built with Next.js and AI to accelerate research and decision-making.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=03ShreyanshGoel&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=03ShreyanshGoel&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=03ShreyanshGoel&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="200"/>
 </div>
 
 ## 📈 Contribution Graph
