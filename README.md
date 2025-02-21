@@ -98,8 +98,6 @@ Built with Next.js and AI to accelerate research and decision-making.
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=03ShreyanshGoel&theme=tokyonight&layout=pie" height="200" alt="Languages Pie Chart"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=03ShreyanshGoel&theme=tokyonight" height="200" alt="Productivity Stats"/>
-  ![GitHub Streak](https://camo.githubusercontent.com/49b5c1a1d412e845e1a3dece23052549e6679057e9f6056c2ceeb6f54fbac818/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d30335368726579616e7368476f656c267468656d653d746f6b796f6e6967687426686964655f626f726465723d74727565)
-
 </div>
 
 ---
