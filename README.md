@@ -3,7 +3,7 @@
 ## 👋 About Me
 Hi! I'm **Shreyansh Goel**, a passionate **Full-Stack Developer** specializing in the **MERN Stack** and **AI integration**.
 
-- 🎓 **Education**: B.Tech in Computer Science with Data Science and Artificial Intelligence at **Indian Institute of Information Technology Ranchi** (2022 - 2026) | **CGPA: 9.43 / 10.00**
+- 🎓 **Education**: B.Tech in Computer Science with Data Science and Artificial Intelligence @ **Indian Institute of Information Technology Ranchi** (2022 - 2026) | **CGPA: 9.43 / 10.00**
 - 🌟 **From**: Bareilly, Uttar Pradesh, India
 - 💻 Skilled in developing scalable, AI-driven web applications with the MERN stack and Next.js
 - 🚀 Passionate about solving complex challenges and leveraging innovative technologies
