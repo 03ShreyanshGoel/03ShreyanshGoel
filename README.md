@@ -42,7 +42,7 @@ Hi! I'm **Shreyansh Goel**, a passionate **Full-Stack Developer** specializing i
 
 ### ConTracked | A unified platform for competitive programmers to track contests, analyze performance, and improve coding skills
 **Next.js, TypeScript, Tailwind CSS, Node.js, Express, Prisma ORM, PostgreSQL, NextAuth.js, Chart.js**
-- [GitHub](https://github.com/03shreyanshGoel/contracket-next.js) | [Live Demo](https://contracked.vercel.app)
+- [GitHub](https://github.com/03shreyanshGoel/contracked-next.js) | [Live Demo](https://contracked.vercel.app)
 - Developed a comprehensive contest tracking page with advanced filtering options for past contests (week/month/year), bookmarking toggle, and solution availability filter.
 - Implemented role-based authentication using NextAuth with Google provider, allowing admin privileges for uploading and managing contest solutions.
 - Created an interactive profile dashboard with platform linking functionality that connects user accounts from Codeforces, CodeChef, and LeetCode.
