@@ -42,7 +42,7 @@ Hi! I'm **Shreyansh Goel**, a passionate **Full-Stack Developer** specializing i
 
 ### ConTracked | A unified platform for competitive programmers to track contests, analyze performance, and improve coding skills
 **Next.js, TypeScript, Tailwind CSS, Node.js, Express, Prisma ORM, PostgreSQL, NextAuth.js, Chart.js**
-
+- [GitHub](https://github.com/03shreyanshGoel/contracket-next.js) | [Live Demo](https://contracked.vercel.app)
 - Developed a comprehensive contest tracking page with advanced filtering options for past contests (week/month/year), bookmarking toggle, and solution availability filter.
 - Implemented role-based authentication using NextAuth with Google provider, allowing admin privileges for uploading and managing contest solutions.
 - Created an interactive profile dashboard with platform linking functionality that connects user accounts from Codeforces, CodeChef, and LeetCode.
@@ -55,28 +55,27 @@ Hi! I'm **Shreyansh Goel**, a passionate **Full-Stack Developer** specializing i
 - Built RESTful API with Node.js/Express and Prisma ORM for efficient cross-platform data management.
 - Deployed frontend on Vercel, backend on Render, and utilized PostgreSQL database for data persistence.
 
-
 ### ShopIt | MERN E-commerce Platform
 **MongoDB, Express.js, React.js, Node.js, Redux, TailwindCSS**
 - [GitHub](https://github.com/03shreyanshGoel/ShopIt) | [Live Demo](https://shopit-store.vercel.app)
-- Developed a full-stack e-commerce platform with secure authentication, Stripe payments, and JWT
-- Created an admin dashboard for product, order, and category management
-- Implemented responsive UI with React.js, Redux, TailwindCSS, and Framer Motion
-
+- Developed a full-stack e-commerce platform using the MERN stack with secure user authentication, payment
+ processing via Stripe, JWT for secure login, and integrated RESTful APIs for efficient data communication.
+- Created a responsive admin dashboard to manage products, orders, and categories, with MongoDB for data storage
+ and Cloudinary for image management.
+- Enhanced customer interface with React.js and Redux for state management, offering browsing, cart functionality,
+ and order history.
+- Employed TailwindCSS for styling and Framer Motion for smooth, responsive animations across devices.
+  
 ### LitGitUp | AI-Powered Git Repository Analysis
 **Next.js, TypeScript, PostgreSQL, LangChain, Gemini**
 - [GitHub](https://github.com/03shreyanshGoel/LitGitUp) | [Live Demo](https://litgitup.vercel.app)
-- Engineered a SaaS platform for GitHub repo analysis using Next.js/TypeScript and PostgreSQL
-- Implemented AI-driven commit summarization with Gemini-1.5-Flash
-- Enhanced search with RAG-based vector search, enabling contextual querying of code
-- Integrated AssemblyAI for meeting transcription and GitHub issue generation
-
-### BingeIt | Movie Recommendation App
-**React.js, Firebase, TMDB API**
-- [GitHub](https://github.com/03ShreyanshGoel/bingeit-movie-app) | [Live Demo](https://bingeit-movie-app.vercel.app)
-- Created a responsive movie recommendation app using React.js and TMDB API
-- Integrated Firebase for authentication and real-time watchlists
-- Enhanced UX with React Router and toast notifications
+- Engineered a full-stack SaaS platform for GitHub repo analysis using Next.js/TypeScript, PostgreSQL, and Prisma.
+- Implemented an AI-driven system with Gemini-1.5-Flash to generate commit summaries.
+- Improved search capabilities with RAG-based vector search in PostgreSQL, integrating LangChain and Gemini to
+ enable contextual querying of code snippets, documentation, and intelligent, context-aware code references.
+- Automated meeting management by transcribing recordings with AssemblyAI and generating actionable GitHub
+ issues.
+- Deployed on Vercel with CI/CD, integrating Stripe for payments and Clerk for authentication.
 
 <!---
 
