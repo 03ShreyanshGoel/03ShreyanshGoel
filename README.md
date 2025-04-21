@@ -104,7 +104,7 @@ Built with Next.js and AI to accelerate research and decision-making.
 
 ## 🏆 Achievements
 - 2 stars on CodeChef with a highest rating of 1547
-- Highest rating of 1669 on LeetCode with 200+ solved problems
+- Highest rating of 1670 on LeetCode with 250+ solved problems
 - Global rank of 871 in CodeChef Starter 136 (Division 3)
 - GitHub Trophies:
   <div align="center">
