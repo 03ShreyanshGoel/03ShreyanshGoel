@@ -40,6 +40,22 @@ Hi! I'm **Shreyansh Goel**, a passionate **Full-Stack Developer** specializing i
 
 ## 🚀 Featured Projects
 
+### ConTracked | A unified platform for competitive programmers to track contests, analyze performance, and improve coding skills
+**Next.js, TypeScript, Tailwind CSS, Node.js, Express, Prisma ORM, PostgreSQL, NextAuth.js, Chart.js**
+• Developed a comprehensive contest tracking page with advanced filtering options for past contests (week/month/year), bookmarking toggle, and solution availability filter.
+• Implemented role-based authentication using NextAuth with Google provider, allowing admin privileges for uploading and managing contest solutions.
+• Created an interactive profile dashboard with platform linking functionality that connects user accounts from Codeforces, CodeChef, and LeetCode.
+
+• Built a dynamic analytics system featuring:
+  - Doughnut chart visualizing distribution of solved problems across platforms.
+  - Rating history graph with contest participation tooltips.
+  - Profile statistics displaying max rating, current rating, problems solved, and contests participated.
+  - Platform selector to filter statistics by selected coding platform.
+
+• Designed responsive UI with Next.js, TypeScript, and Tailwind CSS featuring light/dark mode toggle.
+• Built RESTful API with Node.js/Express and Prisma ORM for efficient cross-platform data management.
+• Deployed frontend on Vercel, backend on Render, and utilized PostgreSQL database for data persistence.
+
 ### ShopIt | MERN E-commerce Platform
 **MongoDB, Express.js, React.js, Node.js, Redux, TailwindCSS**
 - [GitHub](https://github.com/03shreyanshGoel/ShopIt) | [Live Demo](https://shopit-store.vercel.app)
