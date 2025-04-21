@@ -47,10 +47,10 @@ Hi! I'm **Shreyansh Goel**, a passionate **Full-Stack Developer** specializing i
 - Created an interactive profile dashboard with platform linking functionality that connects user accounts from Codeforces, CodeChef, and LeetCode.
 
 - Built a dynamic analytics system featuring:
-  - Doughnut chart visualizing distribution of solved problems across platforms.
-  - Rating history graph with contest participation tooltips.
-  - Profile statistics displaying max rating, current rating, problems solved, and contests participated.
-  - Platform selector to filter statistics by selected coding platform.
+  -- Doughnut chart visualizing distribution of solved problems across platforms.
+  -- Rating history graph with contest participation tooltips.
+  -- Profile statistics displaying max rating, current rating, problems solved, and contests participated.
+  -- Platform selector to filter statistics by selected coding platform.
 
 - Designed responsive UI with Next.js, TypeScript, and Tailwind CSS featuring light/dark mode toggle.
 - Built RESTful API with Node.js/Express and Prisma ORM for efficient cross-platform data management.
