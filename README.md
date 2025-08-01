@@ -103,9 +103,9 @@ Built with Next.js and AI to accelerate research and decision-making.
 </div>
 
 ## 🏆 Achievements
-- 2 stars on CodeChef with a highest rating of 1547
-- Highest rating of 1670 on LeetCode with 250+ solved problems
-- Global rank of 871 in CodeChef Starter 136 (Division 3)
+- 2 stars on CodeChef with a highest rating of 1556
+- Highest rating of 1670 on LeetCode with 300+ solved problems
+- Global rank of 257 in CodeChef Starter 197 (Division 3)
 - GitHub Trophies:
   <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=03ShreyanshGoel&theme=tokyonight&no-frame=true&column=2&title=Commits,Repositories" alt="GitHub Trophies"/>
