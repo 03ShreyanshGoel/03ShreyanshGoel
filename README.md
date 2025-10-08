@@ -105,7 +105,7 @@ Built with Next.js and AI to accelerate research and decision-making.
 ## 🏆 Achievements
  - Achieved the Knight badge on LeetCode (top 4%) with a peak rating of 1912 and solved more than 300 questions.
  - Ranked 72 globally in LeetCode’s Weekly Contest 465 out of 31708 participants.
- - Earned 3 stars on CodeChef with a peak rating of 1665.
+ - Earned 3 stars on CodeChef with a peak rating of 1727.
  - Ranked 31 globally in CodeChef’s Starter 200 (Division 3) out of 3256 participants.
  - Attained Pupil status on Codeforces with a peak rating of 1274
  - GitHub Trophies:
